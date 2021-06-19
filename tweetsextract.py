@@ -1,4 +1,4 @@
-TWEETS EXTRACT KRNE KA CODE:
+
 import tweepy
 import csv
 import pandas as pd
